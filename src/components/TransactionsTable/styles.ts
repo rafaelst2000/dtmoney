@@ -25,7 +25,7 @@ export const Container = styled.div`
         color: var(--text-title);
       }
 
-      &.depposit {
+      &.deposit {
         color: var(--green);
       }
 
